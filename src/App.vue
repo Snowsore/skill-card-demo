@@ -1,8 +1,8 @@
 <template>
-	<div class='page'>
-		<router-view/>
-	</div>
-	<Footer/>
+  <div class='page'>
+    <router-view/>
+  </div>
+  <Footer/>
 </template>
 
 <script>
@@ -10,35 +10,35 @@
 import Footer from '@/components/Footer.vue'
 
 export default {
-	components: {
-		Footer
-	}
+  components: {
+    Footer
+  }
 }
 </script>
 
 <style>
 
 body {
-	margin: 0px;
+  margin: 0px;
 }
 
 #app {
-	font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-align: center;
-	color: #2c3e50;
-	
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  
 }
 
 .page {
-	min-height: 100vh;
+  min-height: 100vh;
 
-	display: grid;
-	justify-items: center;
-	align-items: center;
+  display: grid;
+  justify-items: center;
+  align-items: center;
 
-	background: #e4edfa;
+  background: #e4edfa;
 }
 
 </style>

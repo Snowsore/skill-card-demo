@@ -1,8 +1,8 @@
 <template>
-    <a class='moreButton' href='#'>
-        <img src='@/assets/reset.svg'>
-        Reset
-    </a>
+  <a class='moreButton' href='#'>
+    <img src='@/assets/reset.svg'>
+    Reset
+  </a>
 </template>
 
 <script>
@@ -14,21 +14,21 @@ export default {
 
 <style scoped>
 
-    .moreButton {
-        display: inline-block;
-        font-size: 1.2rem;
-        font-weight: bold;
-        width: 100px;
+  .moreButton {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 100px;
 
-        padding: 10px;
+    padding: 10px;
 
-        color: #878787;
+    color: #878787;
 
-        border-radius: 10px;
+    border-radius: 10px;
 
-        text-decoration: none;
+    text-decoration: none;
 
-        text-align: center;
-    }
+    text-align: center;
+  }
 
 </style>

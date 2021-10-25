@@ -1,7 +1,7 @@
 <template>
-    <a class='moreButton' href='#'>
-        Assess
-    </a>
+  <a class='moreButton' href='#'>
+    Assess
+  </a>
 </template>
 
 <script>
@@ -11,23 +11,23 @@ export default {
 
 <style scoped>
 
-    .moreButton {
-        display: inline-block;
-        font-size: 2rem;
-        font-weight: bold;
-        width: 200px;
+  .moreButton {
+    display: inline-block;
+    font-size: 2rem;
+    font-weight: bold;
+    width: 200px;
 
-        padding: 10px;
+    padding: 10px;
 
-        background: #0f3881;
+    background: #0f3881;
 
-        color: #fcfcfd;
+    color: #fcfcfd;
 
-        border-radius: 30px;
+    border-radius: 30px;
 
-        text-decoration: none;
+    text-decoration: none;
 
-        text-align: center;
-    }
+    text-align: center;
+  }
 
 </style>

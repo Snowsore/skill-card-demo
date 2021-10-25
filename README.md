@@ -21,9 +21,9 @@ Detail of the user for skill card
 ```
 // METHOD POST
 fetchSkills({
-    skill_names: ["Skill Name"], 
-    account_info: [["academic","id"], ["stackoverflow", "id"], ["github", "id"]], 
-    appid: "id"
+  skill_names: ["Skill Name"], 
+  account_info: [["academic","id"], ["stackoverflow", "id"], ["github", "id"]], 
+  appid: "id"
 })
 ```
 
@@ -31,11 +31,11 @@ Post new assessment
 ```
 // METHOD POST
 postAssess({
-    name: 'Yunu Jung',
-    microsoftAcademic: 'https://xxxxxxx.com',
-    github: 'https://xxxxxxx.com',
-    stackOverflow: 'https://xxxxxxx.com',
-    skills: 'Programing, Reading'
+  name: 'Yunu Jung',
+  microsoftAcademic: 'https://xxxxxxx.com',
+  github: 'https://xxxxxxx.com',
+  stackOverflow: 'https://xxxxxxx.com',
+  skills: 'Programing, Reading'
 })
 ```
 
