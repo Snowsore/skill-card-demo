@@ -89,7 +89,7 @@ export default {
   },
   methods: {
     assess() {
-      api.postassess(this.form).then(() => {
+      api.postAssess(this.form).then(() => {
         this.$router.push('/score')
       })
     },
