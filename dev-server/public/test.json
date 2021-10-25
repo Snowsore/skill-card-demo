@@ -1,0 +1,73 @@
+
+{
+    "overall_score": 0.628731588324106,
+    "skills": [
+        {
+            "name": "Attention mechansim",
+            "score": 0.9,
+            "average": -1,
+            "sources": []
+        },
+        {
+            "name": "Unsupervised learning",
+            "score": 0.7,
+            "average": 0.00388559871896421,
+            "sources": []
+        },
+        {
+            "name": "Natural language processing",
+            "score": 0.4270206328739,
+            "average": 0.273208136654995,
+            "sources": [
+                "stackoverflow"
+            ]
+        },
+        {
+            "name": "Computer vision",
+            "score": 0.836251735687256,
+            "average": 0.302504407979642,
+            "sources": [
+                "academic"
+            ]
+        },
+        {
+            "name": "Deep learning",
+            "score": 0.628731588324106,
+            "average": 0.201980850951889,
+            "sources": [
+                "academic",
+                "github"
+            ]
+        }
+    ],
+    "info": {
+        "name": null,
+        "contact": null,
+        "educational_attainment": null,
+        "education_background": null,
+        "experience_level": null,
+        "open_to_new_opportunity": null,
+        "profile_picture": null,
+        "current_employer": null,
+        "location": null,
+        "occupation": null
+    },
+    "skill_set": {
+        "Deep learning": [
+            "Computer vision",
+            "Natural language processing",
+            "Unsupervised learning",
+            "Attention mechansim"
+        ]
+    },
+    "badges": [
+        {
+            "text": "# Machine learning expert",
+            "type": "performance"
+        },
+        {
+            "text": "# Active in 3 months",
+            "type": "activity"
+        }
+    ]
+}
